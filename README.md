@@ -1,3 +1,3 @@
 This is a desktop calculator made by Peter Ochieng'
-with more advanced functionality
+with more advanced functionalities
 Thank you all
